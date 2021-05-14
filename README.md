@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+I am Michael 
+
+I am working on Creating my own Operating System.
+I love programming and am curently learning more about C++.
+
+
+"We can only know that we know nothing. And that is the highest degree of human wisdom" -- Leo Tolstoy, War and Peace
 
 <!--
 **Michael-Wigham/Michael-Wigham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
