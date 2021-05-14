@@ -2,9 +2,10 @@
 
 I am Michael 
 
-I am working on Creating my own Operating System.
 I love programming and am curently learning more about C++.
 
+I am working on Creating my own Operating System. However, it is yet to be given a name. 
+If you can thank of something that would be cool to name it please email it to michael@wigham.net
 
 "We can only know that we know nothing. And that is the highest degree of human wisdom" -- Leo Tolstoy, War and Peace
 
