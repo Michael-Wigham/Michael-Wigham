@@ -1,9 +1,5 @@
 ### Hi 👋
 
-I am Michael 
-
-I love programming and am curently learning more about C++.
-
 "We can only know that we know nothing. And that is the highest degree of human wisdom" -- Leo Tolstoy, War and Peace
 
 <!--
